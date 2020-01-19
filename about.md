@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Masters student in Electrical Engineering. Research in Photonics.
+I studied mathematics in my undergrad and I'm very smug about it.
+You cannot stop me from speculating on topics I'm not qualified in.
+It has been brought to my attention I am wrong most of the time.
