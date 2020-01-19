@@ -1,5 +1,3 @@
 ## B. Hernbengarner's Blog
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-[link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I'll probably add a humorous image here.
+For now it's more text in the same bland voice.
