@@ -1,3 +1,4 @@
 # Your blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Original source: https://www.fast.ai/2020/01/16/fast_template/#setting-up-your-homepage
+Markdown reference: https://en.support.wordpress.com/markdown-quick-reference/
