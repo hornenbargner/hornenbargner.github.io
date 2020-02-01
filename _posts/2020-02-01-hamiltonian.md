@@ -8,13 +8,7 @@ You can easily paint this in classical situations. Imagine a body in orbit aroun
 Things are slightly more complicated in our classical model. Here, $\Psi(x,t)$ is *not* a typical position function $x(t)$. You do not input a time and get a definite location. Instead, $\Psi(x,t)$ is a **wave function**, and the output for each $x,t$ contains information about the probability that the particle will be found at $x$ at time $t$. Notice I said "contains information about the probability" and not "is the probability." We will discuss how to extract the probabilities later. \\
 ## An Example: The Particle In A Box
 Suppose that you have a 1-D particle, which you've put in a box. Our box is an **infinite square well**, denoted
-$$
-    V(x)= 
-\begin{cases}
-    0,& 0\leq x \leq a\\
-    \infty,              & \text{otherwise}
-\end{cases}
-$$
+$$ V(x)= \begin{cases}0,& 0\leq x \leq a\\\infty,& \text{otherwise}\end{cases}$$
 This is to say that our particle will roam unobstructed where $V(x)=0$, but it can't overcome the barrier required to enter areas where $V(x)=\infty$. Compare to a valley surrounded by infinitely steep hills. You can walk as you please in the valley, but hiking up and over the hills is impossible! The probability of finding our particle where $V(x)=\infty$ is 0.\\
 It turns out a quantum particle in such a box can only have certain wave functions. If we throw the particle in with initial state $\Psi(x,0)$, it will have form
 $$\Psi(x,t)=\sum_{n=1}^{\infty}c_n \sqrt{\frac{2}{a}}{}sin(\frac{n\pi}{a}x)e^{-i(n^{2}\pi ^{2} \hbar/2ma^{2})t})$$
