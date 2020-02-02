@@ -59,7 +59,7 @@ $$
 \psi(x)=\sqrt{\frac{2}{a}}{}sin(\frac{n\pi}{a}x)
 $$
 </div>
-The astute reader might recognize this as familiar. This is part of the general solution for $\Psi(x,t)$, and that's no coincidence. Calculating the eigenvectors and eigenvalues of Hamiltonian *is conceptually equivalent* to solving the x-dependent component, $\psi(x)$, of the separable Schrodinger equation. The Hamiltonian's eigenvalues and eigenvectors are given by solving:
+The astute reader might recognize this as familiar. This is part of the general solution for $\Psi(x,t)$, and that's no coincidence. Calculating the eigenvectors and eigenvalues of Hamiltonian *is conceptually equivalent* to solving the time-independent component, $\psi(x)$, of the separable Schrodinger equation. The Hamiltonian's eigenvalues and eigenvectors are given by solving:
 <div>
 $$
 -\frac{\hbar^2}{2m}\frac{d^{2}\psi}{dx^2}+V(x)=E\psi
