@@ -4,7 +4,7 @@ This post is just a very general summary of the intuition behind quantum modelin
 So, quantum begins (or we are beginning it) with the **Schrodinger equation**, presented here in one dimension:
 <div>
 $$\frac{-\hbar^2}{2m}\frac{\partial ^2}{\partial x^2}\Psi (x,t) + V(x)\Psi (x,t) = i\hbar \frac{\partial}{\partial t}\Psi(x, t)$$
-<div>
+</div>
 This looks like a lot, but it's really a simple idea in a new light. The English translation of this equation says the following: "The momentum of the system and the potential energy of the system determine the change in the system over time." The first term is the **momentum** of the system. The second term is the **potential energy** configuration of the system. The third term is the change of the system with respect to time.\\
 You can easily paint this in classical situations. Imagine a body in orbit around the earth. The earth's gravitational field defines $V(x)$. The body's momentum is $p=mv$. These two things are sufficient to describe the change in the particle's position over time. \\
 Things are slightly more complicated in our classical model. Here, $\Psi(x,t)$ is *not* a typical position function $x(t)$. You do not input a time and get a definite location. Instead, $\Psi(x,t)$ is a **wave function**, and the output for each $x,t$ contains information about the probability that the particle will be found at $x$ at time $t$. Notice I said "contains information about the probability" and not "is the probability." We will discuss how to extract the probabilities later. \\
