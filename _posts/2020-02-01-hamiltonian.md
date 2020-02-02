@@ -68,7 +68,7 @@ $$
 I will give one more set of claims about operators: firstly, the eigenvectors span the vector space. This isn't always true, but it's practically true for operators we will discuss. Finally, when representing some wave function as a linear sum of eigenvectors of an operator, the modulus of the coefficients of each eigenvector represent the probability of that eigenvalue being measured. In other words, if $\psi_{e}$ is an eigenvector for all $e\in \mathbb{N}$, and 
 <div>
 $$
-\Psi(x,t)=\sum^{\infty}_{n=1}p_n\psi(x,t)
+\Psi(x,t)=\sum^{\infty}_{n=1}p_n\psi_n(x,t)
 $$
 </div>
 is a representation of $\Psi(x,t)$ with $p_n\in \mathbb{C}$, then the probability of observing eigenvector $\psi_e(x,t)$ (and eigenvalue $E_e$) is 
